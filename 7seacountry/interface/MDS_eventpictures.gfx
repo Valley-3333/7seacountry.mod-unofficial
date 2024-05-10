@@ -1,0 +1,12 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_report_event_sutoreza"
+		texturefile = "gfx/event_pictures/sutoreza.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_form_auh"
+		texturefile = "gfx/event_pictures/auh_event.dds"
+	}
+}
