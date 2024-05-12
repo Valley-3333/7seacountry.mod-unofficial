@@ -1,8 +1,7 @@
 name="しちかいよう！"
+version="0.0"
 tags={
-	"Historical"
-	"Gameplay"
-	"Utilities"
+	"Graphics"
 }
-supported_version="1.14.*"
-path="/Users/Paradise_on_earth/Documents/Paradox Interactive/Hearts of Iron IV/mod/7seacountry"
+supported_version="1.14.5"
+path="C:/Users/tabat/Documents/GitHub/7seacountry.mod-unofficial/7seacountry"
