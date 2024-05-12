@@ -1,4 +1,4 @@
-﻿l_japanese:
+l_japanese:
     # GUI Localisation, do not edit!
  first_leader_title:0 "国家元首"
  second_leader_title:0 "しちかいよう！"
@@ -19,8 +19,7 @@
  JAP_7sea:0 "菊野日万理"
  USA_7sea:0 "オーレリア＝G＝コロンビア"
  USA2_7sea:0 "フリーヤ＝V＝コロンビア"
- AUS_7sea:0 "オーストリアさん"
- HUN_7sea:0 "ハンガリーさん"
- #AUH_7sea:0 "オーストリア＝ハンガリー婦妻"
+ AUS_7sea:0 "ヴァルブルガ=V=エスターライヒ"
+ HUN_7sea:0 "アマーリエ=V=イシュトヴァーン"
  SOV_7sea:0 "ヤスロラーヴァ＝ソユーズ"
- #FRA_7sea:0 "フランチアさん"
+ FRA_7sea:0 "フラテルニテ＝マリアンヌ"
