@@ -1,9 +1,7 @@
-name="もんど☆すとらの"
-picture="thumbnail.png"
+version="0.0"
 tags={
-	"Historical"
-	"Gameplay"
-	"Utilities"
+	"Graphics"
 }
-supported_version="1.12.*"
-remote_file_id="2962670641"
+name="しちかいよう！"
+supported_version="1.14.5"
+path="C:/Users/tabat/Documents/GitHub/7seacountry.mod-unofficial/7seacountry"

@@ -40,192 +40,62 @@ spriteTypes = {
 	# Country Specific Portraits
 
 	spriteType = {
-		name = "GFX_ENG_mds"
-		texturefile = "gfx/dual_leaders/ENG_mds.dds"
+		name = "GFX_ENG_7sea"
+		texturefile = "gfx/dual_leaders/ENG_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_GER_mds"
-		texturefile = "gfx/dual_leaders/GER_mds.dds"
+		name = "GFX_GER_7sea"
+		texturefile = "gfx/dual_leaders/GER_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ITA_mds"
-		texturefile = "gfx/dual_leaders/ITA_mds.dds"
+		name = "GFX_ITA_7sea"
+		texturefile = "gfx/dual_leaders/ITA_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ITA_RSI_mds"
-		texturefile = "gfx/dual_leaders/ITA_RSI_mds.dds"
+		name = "GFX_ITA_RSI_7sea"
+		texturefile = "gfx/dual_leaders/ITA_RSI_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_ROM_mds"
-		texturefile = "gfx/dual_leaders/ROM_mds.dds"
+		name = "GFX_JAP_7sea"
+		texturefile = "gfx/dual_leaders/JAP_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_NOR_mds"
-		texturefile = "gfx/dual_leaders/NOR_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_JAP_mds"
-		texturefile = "gfx/dual_leaders/JAP_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_USA_mds"
-		texturefile = "gfx/dual_leaders/USA_mds.dds"
+		name = "GFX_USA_7sea"
+		texturefile = "gfx/dual_leaders/USA_7sea.dds"
 	}
 	
 	spriteType = {
-		name = "GFX_BUL_mds"
-		texturefile = "gfx/dual_leaders/BUL_mds.dds"
+		name = "GFX_AUS_7sea"
+		texturefile = "gfx/dual_leaders/AUS_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_AUS_mds"
-		texturefile = "gfx/dual_leaders/AUS_mds.dds"
+		name = "GFX_SOV_7sea"
+		texturefile = "gfx/dual_leaders/SOV_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_BRA_mds"
-		texturefile = "gfx/dual_leaders/BRA_mds.dds"
+		name = "GFX_FRA_7sea"
+		texturefile = "gfx/dual_leaders/FRA_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_POR_mds"
-		texturefile = "gfx/dual_leaders/POR_mds.dds"
+		name = "GFX_HUN_7sea"
+		texturefile = "gfx/dual_leaders/HUN_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_SOV_mds"
-		texturefile = "gfx/dual_leaders/SOV_mds.dds"
+		name = "GFX_AUH_7sea"
+		texturefile = "gfx/dual_leaders/cosmetic/AUH_7sea.dds"
 	}
 
 	spriteType = {
-		name = "GFX_FRA_mds"
-		texturefile = "gfx/dual_leaders/FRA_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_HUN_mds"
-		texturefile = "gfx/dual_leaders/HUN_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_GRE_mds"
-		texturefile = "gfx/dual_leaders/GRE_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_EST_mds"
-		texturefile = "gfx/dual_leaders/EST_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_FIN_mds"
-		texturefile = "gfx/dual_leaders/FIN_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_CHI_mds"
-		texturefile = "gfx/dual_leaders/CHI_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_ALB_mds"
-		texturefile = "gfx/dual_leaders/ALB_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_IRQ_mds"
-		texturefile = "gfx/dual_leaders/IRQ_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_PER_mds"
-		texturefile = "gfx/dual_leaders/PER_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_YUG_mds"
-		texturefile = "gfx/dual_leaders/YUG_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_HOL_mds"
-		texturefile = "gfx/dual_leaders/HOL_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_POL_mds"
-		texturefile = "gfx/dual_leaders/POL_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_SWI_mds"
-		texturefile = "gfx/dual_leaders/SWI_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_SWE_mds"
-		texturefile = "gfx/dual_leaders/SWE_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_MAN_mds"
-		texturefile = "gfx/dual_leaders/MAN_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_MEX_mds"
-		texturefile = "gfx/dual_leaders/MEX_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_ETH_mds"
-		texturefile = "gfx/dual_leaders/ETH_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_EGY_mds"
-		texturefile = "gfx/dual_leaders/EGY_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_TUR_mds"
-		texturefile = "gfx/dual_leaders/TUR_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_LBV_mds"
-		texturefile = "gfx/dual_leaders/lBV_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_SPR_mds"
-		texturefile = "gfx/dual_leaders/SPR_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_SPR_left_mds"
-		texturefile = "gfx/dual_leaders/SPR_left_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_SPR_right_mds"
-		texturefile = "gfx/dual_leaders/SPR_right_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_AUH_mds"
-		texturefile = "gfx/dual_leaders/cosmetic/AUH_mds.dds"
-	}
-
-	spriteType = {
-		name = "GFX_POR_BRA_mds"
-		texturefile = "gfx/dual_leaders/cosmetic/POR_BRA_mds.dds"
+		name = "GFX_POR_BRA_7sea"
+		texturefile = "gfx/dual_leaders/cosmetic/POR_BRA_7sea.dds"
 	}
 }
