@@ -190,14 +190,6 @@ guiTypes = {
 
 			
 			#------------------------- TAB BUTTONS ----------------------------
-			
-			iconType = {
-				name = "diplo_tab_extender"
-				quadTextureSprite ="GFX_diplo_tab_extender"
-				position = { x = 535 y = 104 }
-				alwaystransparent = yes
-			}
-
 			iconType = {
 				name = "tabs_background"
 				quadTextureSprite ="GFX_tab_diplomacy_bg"
@@ -224,6 +216,7 @@ guiTypes = {
 			#------------------------- END TAB BUTTONS ----------------------------
 			
 			#------------------------- RELATIONS TAB ----------------------------
+	
 		
 			containerWindowType = {
 				name = "diplomacy_tab_top"
@@ -2711,6 +2704,12 @@ guiTypes = {
 				maxWidth = 300
 				maxHeight = 40	
 				format = centre
+			}
+
+			iconType = {
+				name = "diplo_response_bg"
+				position = {x=30 y=257}
+				quadTextureSprite ="GFX_diplo_response_bg"
 			}
 			
 			instantTextBoxType = {
