@@ -66,12 +66,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_USA_7sea"
-		texturefile = "gfx/dual_leaders/USA_7sea.dds"
+		texturefile = "gfx/dual_leaders/Aurelia=Georgia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_USA2_7sea"
+		texturefile = "gfx/dual_leaders/Freya=Virginia.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_AUS_7sea"
-		texturefile = "gfx/dual_leaders/AUS_7sea.dds"
+		texturefile = "gfx/dual_leaders/Walburga.dds"
 	}
 
 	spriteType = {
@@ -86,16 +91,11 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_HUN_7sea"
-		texturefile = "gfx/dual_leaders/HUN_7sea.dds"
+		texturefile = "gfx/dual_leaders/Amalie.dds"
 	}
 
 	spriteType = {
 		name = "GFX_AUH_7sea"
 		texturefile = "gfx/dual_leaders/cosmetic/AUH_7sea.dds"
-	}
-
-	spriteType = {
-		name = "GFX_POR_BRA_7sea"
-		texturefile = "gfx/dual_leaders/cosmetic/POR_BRA_7sea.dds"
 	}
 }

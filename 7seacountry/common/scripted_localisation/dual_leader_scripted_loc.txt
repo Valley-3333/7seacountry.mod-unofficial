@@ -44,8 +44,16 @@ defined_text = {
 	text = {
         trigger = {
 			original_tag = USA
+			USA_franklin_delano_roosevelt = { is_country_leader = yes }
         }
         localization_key = USA_7sea
+	}
+	text = {
+        trigger = {
+			original_tag = USA
+			USA_franklin_delano_roosevelt = { is_country_leader = no }
+        }
+        localization_key = USA2_7sea
 	}
 	text = {
         trigger = {
@@ -112,15 +120,6 @@ defined_text = {
 		}
 		localization_key = "GFX_ITA_7sea"
 	}
-	text = {
-		trigger = {
-			AND = { 
-				original_tag = ITA 
-				has_cosmetic_tag = ITA_rsi
-			}
-		}
-		localization_key = "GFX_ITA_RSI_7sea"
-	}
     text = {
         trigger = {
 			original_tag = ENG
@@ -145,8 +144,16 @@ defined_text = {
 	text = {
         trigger = {
 			original_tag = USA
+			USA_franklin_delano_roosevelt = { is_country_leader = yes }
         }
         localization_key = "GFX_USA_7sea"
+	}
+	text = {
+        trigger = {
+			original_tag = USA
+			USA_franklin_delano_roosevelt = { is_country_leader = no }
+        }
+        localization_key = "GFX_USA2_7sea"
 	}
 	text = {
         trigger = {
