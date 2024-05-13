@@ -41,17 +41,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_ENG_7sea"
-		texturefile = "gfx/dual_leaders/ENG_7sea.dds"
+		texturefile = "gfx/dual_leaders/Britannnia.dds"
 	}
 
 	spriteType = {
 		name = "GFX_GER_7sea"
-		texturefile = "gfx/dual_leaders/GER_7sea.dds"
+		texturefile = "gfx/dual_leaders/Germania.dds"
 	}
 
 	spriteType = {
 		name = "GFX_ITA_7sea"
-		texturefile = "gfx/dual_leaders/ITA_7sea.dds"
+		texturefile = "gfx/dual_leaders/Irredenta.dds"
 	}
 
 	spriteType = {
