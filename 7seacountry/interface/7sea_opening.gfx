@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_pdx_int_logo_2"
+		textureFile = "gfx/interface/7seacountry_logo.png"
+	}
+}
