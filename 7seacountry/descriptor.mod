@@ -1,4 +1,5 @@
 version="0.0"
+picture="thumbnail.png"
 tags={
 	"Graphics"
 }
