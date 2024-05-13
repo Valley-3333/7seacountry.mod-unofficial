@@ -1361,7 +1361,7 @@ guiTypes = {
 				containerWindowType = {
 					name = "army_count_panel"
 					position = { x = 20 y = 25 }
-					size = { width = 500 height = 55 }
+					size = { width = 633 height = 55 }
 					
 					background = {
 						name = "Background"
@@ -1398,7 +1398,7 @@ guiTypes = {
 					
 					containerWindowType = {
 						name = "special_forces_container"
-						position = { x = 180 y = 12 }
+						position = { x = 305 y = 12 }
 						
 						iconType = {
 							name = "bg"
@@ -1425,7 +1425,7 @@ guiTypes = {
 				
 					containerWindowType = {
 						name = "manpower_in_field_container"
-						position = { x = 280 y = 12 }
+						position = { x = 405 y = 12 }
 						
 						iconType = {
 							name = "bg"
@@ -1450,7 +1450,7 @@ guiTypes = {
 				
 					containerWindowType = {
 						name = "equipment_fulfilled_container"
-						position = { x = 400 y = 12 }
+						position = { x = 525 y = 12 }
 						
 						iconType = {
 							name = "bg"
@@ -1529,6 +1529,8 @@ guiTypes = {
 					size = { width = 661 height = 232 }
 					verticalScrollbar = "right_vertical_slider"
 					background_margin = { right = 28 top = -5 bottom = -5 }
+scroll_wheel_factor = 50
+					smooth_scrolling = yes
 
 					background = {
 						name = "Background"
@@ -1591,7 +1593,7 @@ guiTypes = {
 				containerWindowType = {
 					name = "footer"
 					position = { x = 0 y = 440 }
-					size = { width = 520 height = 85 }
+					size = { width = 520 height = 185 }
 
 					iconType = {
 						name = "military_research_header"
@@ -1606,15 +1608,15 @@ guiTypes = {
 						font = "hoi_18mbs"
 						borderSize = {x = 0 y = 0}
 						text = "ARMY_LEDGER_THRESHOLD_STAFF_AND_RESEARCH"
-						maxWidth = 500
+						maxWidth = 550
 						maxHeight = 20
 						format = center
 					}
 					
 					containerWindowType = {
 						name = "ideas"
-						position = { x = 20 y = 5 }
-						size = { width = 633 height = 74 }
+						position = { x = 20 y = 45 }
+						size = { width = 515 height = 124 }
 						horizontalScrollbar = "bottom_horizontal_slider"
 						background_margin = { bottom = 15 }
 						
@@ -1627,8 +1629,9 @@ guiTypes = {
 							name = "ideas_grid"
 							position = { x = 5 y = 5 }
 							size = { width = 255 height = 106 }
-							slotsize = { width = 60 height = 50 }
+							slotsize = { width = 60 height = 60 }
 							format = "UPPER_LEFT"
+max_slots_horizontal = 6
 						}
 						
 						containerWindowType = {
@@ -1648,7 +1651,7 @@ guiTypes = {
 
 					containerWindowType = {
 						name = "doctrine"
-						position = { x = 400 y = 45 }
+						position = { x = 535 y = 45 }
 						size = { width = 120 height = 109 }
 						
 						background = {
@@ -1665,13 +1668,13 @@ guiTypes = {
 
 					iconType = {
 						name = "tech_icon_deco"
-						position = { x = 26 y = 60 }
+						position = { x = 26 y = 155 }
 						spriteType = "GFX_intel_ledger_tech"
 					}
 
 					gridBoxType = {
 						name = "technology_entries"
-						position = { x = 70 y = 65 }
+						position = { x = 70 y = 160 }
 						size = { width = 300 height = 60 }
 						format = "UPPER_LEFT"
 						slotsize = { width = 80 height = 60 }
@@ -1698,7 +1701,7 @@ guiTypes = {
 				containerWindowType = {
 					name = "navy_count_panel"
 					position = { x = 20 y = 25 }
-					size = { width = 500 height = 65 }
+					size = { width = 633 height = 65 }
 					
 					background = {
 						name = "Background"
@@ -1734,7 +1737,7 @@ guiTypes = {
 				
 					containerWindowType = {
 						name = "manpower_in_field_container"
-						position = { x = 260 y = 18 }
+						position = { x = 405 y = 18 }
 						
 						iconType = {
 							name = "bg"
@@ -1759,7 +1762,7 @@ guiTypes = {
 				
 					containerWindowType = {
 						name = "ship_count_container"
-						position = { x = 380 y = 18 }
+						position = { x = 525 y = 18 }
 						
 						iconType = {
 							name = "bg"
@@ -1883,7 +1886,7 @@ guiTypes = {
 				containerWindowType = {
 					name = "footer"
 					position = { x = 0 y = 440 }
-					size = { width = 520 height = 85 }
+					size = { width = 520 height = 185 }
 
 					iconType = {
 						name = "military_research_header"
@@ -1898,15 +1901,15 @@ guiTypes = {
 						font = "hoi_18mbs"
 						borderSize = {x = 0 y = 0}
 						text = "ARMY_LEDGER_THRESHOLD_STAFF_AND_RESEARCH"
-						maxWidth = 500
+						maxWidth = 550
 						maxHeight = 20
 						format = center
 					}
 					
 					containerWindowType = {
 						name = "ideas"
-						position = { x = 20 y = 5 }
-						size = { width = 633 height = 74 }
+						position = { x = 20 y = 45 }
+						size = { width = 515 height = 124 }
 						horizontalScrollbar = "bottom_horizontal_slider"
 						background_margin = { bottom = 15 }
 						
@@ -1921,6 +1924,7 @@ guiTypes = {
 							size = { width = 255 height = 106 }
 							slotsize = { width = 60 height = 60 }
 							format = "UPPER_LEFT"
+max_slots_horizontal = 6
 						}
 						
 						containerWindowType = {
@@ -1941,7 +1945,7 @@ guiTypes = {
 
 					containerWindowType = {
 						name = "doctrine"
-						position = { x = 400 y = 45 }
+						position = { x = 535 y = 45 }
 						size = { width = 120 height = 109 }
 						
 						background = {
@@ -1958,17 +1962,17 @@ guiTypes = {
 
 					iconType = {
 						name = "tech_icon_deco"
-						position = { x = 26 y = 60 }
+						position = { x = 26 y = 155 }
 						spriteType = "GFX_intel_ledger_tech"
 					}
 				
 					gridBoxType = {
 						name = "technology_entries"
-						position = { x = 70 y = 65 }
-						size = { width = 433 height = 60 }
+						position = { x = 70 y = 160 }
+						size = { width = 300 height = 60 }
 						format = "UPPER_LEFT"
 						slotsize = { width = 80 height = 60 }
-						max_slots_horizontal = 9
+						max_slots_horizontal = 6
 					}
 				}
 			} #end navy_panel
@@ -1991,7 +1995,7 @@ guiTypes = {
 				containerWindowType = {
 					name = "air_count_panel"
 					position = { x = 20 y = 25 }
-					size = { width = 500 height = 65 }
+					size = { width = 633 height = 65 }
 					
 					background = {
 						name = "Background"
@@ -2018,7 +2022,7 @@ guiTypes = {
 				
 					containerWindowType = {
 						name = "manpower_in_field_container"
-						position = { x = 360 y = 18 }
+						position = { x = 500 y = 18 }
 						
 						iconType = {
 							name = "bg"
@@ -2045,7 +2049,7 @@ guiTypes = {
 				containerWindowType = {
 					name = "airwing_type_container"
 					position = { x = 20 y = 94 }
-					size = { width = 500 height = 70 }
+					size = { width = 633 height = 70 }
 
 					background = {
 							name = "Background"
@@ -2060,7 +2064,7 @@ guiTypes = {
 						
 						Orientation = upper_left
 						format = "UPPER_LEFT"
-						max_slots_horizontal = 5
+						max_slots_horizontal = 6
 						max_slots_vertical = 2
 					}
 				}
@@ -2068,11 +2072,11 @@ guiTypes = {
 				containerWindowType = {
 					name = "airwings_container"
 					position = { x = 20 y = 172 }
-					size = { width = 528 height = 270 }
+					size = { width = 632 height = 270 }
 					verticalScrollbar = "right_vertical_slider"
 					scroll_wheel_factor = 40
 					smooth_scrolling = yes
-					background_margin = { right = 28 top = -4 bottom = -6 }
+					background_margin = { top = -4 bottom = -6 }
 					
 					background = {
 						name = "Background"
@@ -2124,7 +2128,7 @@ guiTypes = {
 				containerWindowType = {
 					name = "footer"
 					position = { x = 0 y = 460 }
-					size = { width = 520 height = 85 }
+					size = { width = 520 height = 185 }
 
 					iconType = {
 						name = "military_research_header"
@@ -2139,15 +2143,15 @@ guiTypes = {
 						font = "hoi_18mbs"
 						borderSize = {x = 0 y = 0}
 						text = "ARMY_LEDGER_THRESHOLD_STAFF_AND_RESEARCH"
-						maxWidth = 500
+						maxWidth = 550
 						maxHeight = 20
 						format = center
 					}
 					
 					containerWindowType = {
 						name = "ideas"
-						position = { x = 20 y = 5 }
-						size = { width = 633 height = 74 }
+						position = { x = 20 y = 45 }
+						size = { width = 515 height = 124 }
 						horizontalScrollbar = "bottom_horizontal_slider"
 						background_margin = { bottom = 15 }
 						
@@ -2161,6 +2165,7 @@ guiTypes = {
 							size = { width = 255 height = 106 }
 							slotsize = { width = 60 height = 60 }
 							format = "UPPER_LEFT"
+max_slots_horizontal = 6
 						}
 					
 						containerWindowType = {
@@ -2180,7 +2185,7 @@ guiTypes = {
 
 					containerWindowType = {
 						name = "doctrine"
-						position = { x = 400 y = 45 }
+						position = { x = 535 y = 45 }
 						size = { width = 120 height = 109 }
 						
 						background = {
@@ -2197,13 +2202,13 @@ guiTypes = {
 
 					iconType = {
 						name = "tech_icon_deco"
-						position = { x = 26 y = 60 }
+						position = { x = 26 y = 155 }
 						spriteType = "GFX_intel_ledger_tech"
 					}
 			
 					gridBoxType = {
 						name = "technology_entries"
-						position = { x = 70 y = 65 }
+						position = { x = 70 y = 160 }
 						size = { width = 300 height = 60 }
 						format = "UPPER_LEFT"
 						slotsize = { width = 80 height = 60 }

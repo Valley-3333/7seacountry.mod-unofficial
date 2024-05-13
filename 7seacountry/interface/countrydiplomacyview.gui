@@ -4147,9 +4147,8 @@ guiTypes = {
 		
 		buttonType = {
 			name = "maximum_amount_button"
-			quadTextureSprite ="GFX_maximum_stockpile_button"
-			position = { x = 304 y = 40 }
-			scale = 0.9
+			quadTextureSprite ="GFX_add_all_button_32x32"
+			position = { x = 302 y = 34 }
 			clicksound = click_default
 		}
 
