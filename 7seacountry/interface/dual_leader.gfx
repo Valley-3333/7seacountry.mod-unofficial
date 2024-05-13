@@ -61,7 +61,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_JAP_7sea"
-		texturefile = "gfx/dual_leaders/JAP_7sea.dds"
+		texturefile = "gfx/dual_leaders/KikunoHimari.dds"
 	}
 
 	spriteType = {
@@ -76,12 +76,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_SOV_7sea"
-		texturefile = "gfx/dual_leaders/SOV_7sea.dds"
+		texturefile = "gfx/dual_leaders/Yaroslava.dds"
 	}
 
 	spriteType = {
 		name = "GFX_FRA_7sea"
-		texturefile = "gfx/dual_leaders/FRA_7sea.dds"
+		texturefile = "gfx/dual_leaders/Fraternite.dds"
 	}
 
 	spriteType = {
