@@ -66,13 +66,13 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_USA_7sea"
-		texturefile = "gfx/dual_leaders/Aurelia=Georgia.dds"
+		texturefile = "gfx/dual_leaders/USA_7sea.dds"
 	}
 
-	spriteType = {
-		name = "GFX_USA2_7sea"
-		texturefile = "gfx/dual_leaders/Freya=Virginia.dds"
-	}
+	#spriteType = {
+	#	name = "GFX_USA2_7sea"
+	#	texturefile = "gfx/dual_leaders/Freya=Virginia.dds"
+	#}
 	
 	spriteType = {
 		name = "GFX_AUS_7sea"
