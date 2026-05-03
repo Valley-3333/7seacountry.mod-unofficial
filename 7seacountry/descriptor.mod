@@ -4,5 +4,6 @@ tags={
 	"Graphics"
 }
 name="しちかいよう！"
-supported_version="1.15.*"
+supported_version="1.17.*"
 path="C:/Users/tabat/Documents/GitHub/7seacountry.mod-unofficial/7seacountry"
+replace_path="music"
