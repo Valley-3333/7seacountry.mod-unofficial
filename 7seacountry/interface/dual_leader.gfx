@@ -131,4 +131,9 @@ spriteTypes = {
 		name = "GFX_AUH_7sea"
 		texturefile = "gfx/dual_leaders/cosmetic/AUH_7sea.dds"
 	}
+	spriteType = {
+		name = "GFX_booth_button"
+		texturefile = "gfx/interface/booth_logo.png"
+	}
+	
 }
