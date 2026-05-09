@@ -57,6 +57,14 @@ guiTypes = {
 
 			pdx_tooltip = second_leader_tt
 		}
+		buttonType = {
+			name = "booth_button"
+			position = { x=105 y=10 }
+			spriteType ="GFX_booth_button"
+			pdx_tooltip = "BOOTH_tt"
+			web_link = "https://pttrin7sea.booth.pm"
+			scale = 0.25
+		}
 	}
 			
 	containerWindowType = {
