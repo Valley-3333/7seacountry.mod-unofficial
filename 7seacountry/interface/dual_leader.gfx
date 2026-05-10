@@ -85,6 +85,11 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_SOV_RUS_7sea"
+		texturefile = "gfx/dual_leaders/cosmetic/Al_bina.dds"
+	}
+
+	spriteType = {
 		name = "GFX_FRA_7sea"
 		texturefile = "gfx/dual_leaders/Fraternite.dds"
 	}
@@ -131,9 +136,12 @@ spriteTypes = {
 		name = "GFX_AUH_7sea"
 		texturefile = "gfx/dual_leaders/cosmetic/AUH_7sea.dds"
 	}
+	
 	spriteType = {
-		name = "GFX_booth_button"
-		texturefile = "gfx/interface/booth_logo.png"
+		name = "GFX_POL_7sea"
+		texturefile = "gfx/dual_leaders/mazura.dds"
 	}
+
+
 	
 }

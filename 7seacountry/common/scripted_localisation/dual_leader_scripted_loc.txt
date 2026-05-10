@@ -10,7 +10,14 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			original_tag = ITA
+			OR = { 
+				AND = { 
+					original_tag = ITA 
+					NOT = { has_cosmetic_tag = ITA_rds }
+				}
+				original_tag = SPM
+				original_tag = RSI
+			}
 		}
 		localization_key = ITA_7sea
 	}
@@ -88,6 +95,13 @@ defined_text = {
 	}
 	text = {
         trigger = {
+			original_tag = SOV
+			NOT = { has_government = communism }
+        }
+        localization_key = SOV_RUS_7sea
+	}
+	text = {
+        trigger = {
 			OR = {
 				original_tag = FRA
 				original_tag = VIC
@@ -126,6 +140,12 @@ defined_text = {
         localization_key = BAN_7sea
 	}
 	text = {
+        trigger = {
+			original_tag = POL
+        }
+        localization_key = POL_7sea
+	}
+	text = {
 		localization_key = DEFAULT_TITLE
 	}
 }
@@ -143,9 +163,10 @@ defined_text = {
 			OR = { 
 				AND = { 
 					original_tag = ITA 
-					NOT = { has_cosmetic_tag = ITA_rsi }
+					NOT = { has_cosmetic_tag = ITA_rds }
 				}
 				original_tag = SPM
+				original_tag = RSI
 			}
 		}
 		localization_key = "GFX_ITA_7sea"
@@ -218,6 +239,13 @@ defined_text = {
 	}
 	text = {
         trigger = {
+			original_tag = SOV
+			NOT = { has_government = communism }
+        }
+        localization_key = "GFX_SOV_RUS_7sea"
+	}
+	text = {
+        trigger = {
 			OR = {
 				original_tag = FRA
 				original_tag = VIC
@@ -254,6 +282,12 @@ defined_text = {
 			original_tag = BAN
         }
         localization_key = "GFX_banham_7sea"
+	}
+	text = {
+        trigger = {
+			original_tag = POL
+        }
+        localization_key = "GFX_POL_7sea"
 	}
 	text = {
 		localization_key = "GFX_portrait_bg_blank"

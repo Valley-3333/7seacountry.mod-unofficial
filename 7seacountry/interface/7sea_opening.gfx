@@ -3,4 +3,8 @@ spriteTypes = {
 		name = "GFX_pdx_int_logo_2"
 		textureFile = "gfx/interface/7seacountry_logo.png"
 	}
+	spriteType = {
+		name = "GFX_booth_button"
+		texturefile = "gfx/interface/booth_logo.png"
+	}
 }
