@@ -12,11 +12,11 @@ defined_text = {
 		trigger = {
 			OR = { 
 				AND = { 
-					original_tag = ITA 
+					tag = ITA 
 					NOT = { has_cosmetic_tag = ITA_rds }
 				}
 				original_tag = SPM
-				original_tag = RSI
+				tag = RSI
 			}
 		}
 		localization_key = ITA_7sea
@@ -162,11 +162,11 @@ defined_text = {
 		trigger = {
 			OR = { 
 				AND = { 
-					original_tag = ITA 
+					tag = ITA 
 					NOT = { has_cosmetic_tag = ITA_rds }
 				}
 				original_tag = SPM
-				original_tag = RSI
+				tag = RSI
 			}
 		}
 		localization_key = "GFX_ITA_7sea"
