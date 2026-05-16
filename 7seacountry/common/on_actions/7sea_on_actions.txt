@@ -12,7 +12,11 @@ on_actions = {
             	}
 				set_global_flag = ITA_played
         	}
-			else = {
+			else_if = {
+				limit = {
+					original_tag = ITA
+					is_ai = yes
+				}
 				clr_global_flag = ITA_played
 			}
 		}
@@ -21,7 +25,8 @@ on_actions = {
 	on_weekly_GER = {
     	effect = {
 			if = {
-            	limit = { 
+            	limit = {
+					original_tag = GER 
             	    is_ai = no
 					NOT = {
 						has_global_flag = GER_played
@@ -29,7 +34,11 @@ on_actions = {
             	}
 				set_global_flag = GER_played
         	}
-			else = {
+			else_if = {
+				limit = {
+					original_tag = GER
+					is_ai = yes
+				}
 				clr_global_flag = GER_played
 			}
     	}
@@ -47,7 +56,11 @@ on_actions = {
             	}
 				set_global_flag = ENG_played
         	}
-			else = {
+			else_if = {
+				limit = {
+					original_tag = ENG
+					is_ai = yes
+				}
 				clr_global_flag = ENG_played
 			}
     	}
@@ -65,7 +78,11 @@ on_actions = {
             	}
 				set_global_flag = FRA_played
         	}
-			else = {
+			else_if = {
+				limit = {
+					original_tag = FRA
+					is_ai = yes
+				}
 				clr_global_flag = FRA_played
 			}
     	}
@@ -83,7 +100,11 @@ on_actions = {
             	}
 				set_global_flag = SOV_played
         	}
-			else = {
+			else_if = {
+				limit = {
+					original_tag = SOV
+					is_ai = yes
+				}
 				clr_global_flag = SOV_played
 			}
     	}

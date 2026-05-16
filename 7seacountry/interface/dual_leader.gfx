@@ -54,10 +54,10 @@ spriteTypes = {
 		texturefile = "gfx/dual_leaders/Irredenta.dds"
 	}
 
-	spriteType = {
-		name = "GFX_ITA_RSI_7sea"
-		texturefile = "gfx/dual_leaders/ITA_RSI_7sea.dds"
-	}
+	#spriteType = {
+	#	name = "GFX_ITA_RSI_7sea"
+	#	texturefile = "gfx/dual_leaders/ITA_RSI_7sea.dds"
+	#}
 
 	spriteType = {
 		name = "GFX_JAP_7sea"

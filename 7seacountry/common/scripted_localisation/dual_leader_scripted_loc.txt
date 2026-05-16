@@ -21,12 +21,12 @@ defined_text = {
 		}
 		localization_key = ITA_7sea
 	}
-	text = {
-		trigger = {
-			original_tag = SPM
-		}
-		localization_key = SPM_7sea
-	}
+	# text = {
+	# 	trigger = {
+	# 		original_tag = SPM
+	# 	}
+	# 	localization_key = SPM_7sea
+	# }
 	text = {
 		trigger = {
 			original_tag = ENG
